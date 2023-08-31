@@ -1,1 +1,5 @@
-my name is vikash kumar
+#include<stdio.h>
+int main()
+{
+    printf("hello world");
+}
